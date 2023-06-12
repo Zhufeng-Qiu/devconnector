@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://zephyrqiu_admin:zephyrqiu_admin@devconnector.pdfbbyg.mongodb.net/",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "8d340ffb372c19bcbe56",
+    "githubSecret": "dddbcd13e7ecc90adf9e7f88894e67b74711209e"
+}
