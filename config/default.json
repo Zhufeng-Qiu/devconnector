@@ -1,6 +1,6 @@
 {
     "mongoURI": "mongodb+srv://zephyrqiu_admin:zephyrqiu_admin@devconnector.pdfbbyg.mongodb.net/",
     "jwtSecret": "mysecrettoken",
-    "githubClientId": "43bdd4493a3d2ffe124c",
-    "githubSecret": "4801a4a8b44d986cc745f42b9e5835bd6587a876"
+    "githubClientId": "xxxxxxxxxxxxx",
+    "githubSecret": "xxxxxxxxxxxxxx"
 }
